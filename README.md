@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pakupek
 - 👀 I’m interested in cars,bikes
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and looking for commercial experience
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me on fb: Adam Akimowicz
 
