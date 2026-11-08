@@ -35,12 +35,6 @@ I'm interested in backend development, software engineering, and infrastructure 
 - Cloud infrastructure and automation
 - Software engineering best practices
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pakupek&show_icons=true&hide_border=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pakupek&layout=compact&hide_border=true&theme=transparent)
-
 ## Let's Connect
 
 - Facebook: [Adam Akimowicz](https://www.facebook.com/)
