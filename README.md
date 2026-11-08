@@ -37,7 +37,7 @@ I'm interested in backend development, software engineering, and infrastructure 
 
 ## Let's Connect
 
-- Facebook: [Adam Akimowicz](https://www.facebook.com/)
+- Facebook: [Adam Akimowicz](https://www.facebook.com/adam.akimowicz/)
 
 ---
 
